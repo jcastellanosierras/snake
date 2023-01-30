@@ -1,17 +1,13 @@
 # Snake
 
 ## Setup
-You must have installed live-server.
----
-If you don´t have it, write this in the console.
----
+You must have installed live-server.  
+If you don´t have it, write this in the console.  
 `npm install -g live-server`
 
 ## Execute
-To play the game you must deploy the application in a web server.
----
-To do this you have to write the next code:
----
+To play the game you must deploy the application in a web server.  
+To do this you have to write the next code:  
 `live-server .`
 
 ## Play
