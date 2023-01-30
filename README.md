@@ -11,7 +11,7 @@ If you don´t have it, write this in the console.
 To play the game you must deploy the application in a web server.
 ---
 To do this you have to write the next code:
-...
+---
 `live-server .`
 
 ## Play
