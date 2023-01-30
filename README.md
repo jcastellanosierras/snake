@@ -2,7 +2,7 @@
 
 ## Setup
 You must have installed live-server.  
-If you don´t have it, write this in the console.  
+If you don´t have it, write this in the console:  
 `npm install -g live-server`
 
 ## Execute
