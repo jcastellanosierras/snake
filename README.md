@@ -12,6 +12,4 @@ To do this you have to write the next code:
 
 ## Play
 The game is very simple, press the button __Start__ and the game starts.
-And to move the snake press the arrow keys.
-
-PD: It´s my first game :D
+And to move the snake press the arrow keys
